@@ -18,13 +18,14 @@ namespace mapssss
         {
             InitializeComponent();
 
-            
+
             Pin pin = new Pin
             {
                 Label = "Lokalozacja x,y",
                 Address = "Wilgotność wynosi Z",
                 Type = PinType.Place,
-                Position = new Position(36.9628066, -122.0194722)
+                Icon = (Device.RuntimePlatform == Device.Android) ? BitmapDescriptorFactory.FromBundle("sensor1.png") : BitmapDescriptorFactory.FromView(new Image() { Source = "sensor1.png", WidthRequest = 20, HeightRequest = 20 }),
+                Position = new Position(52.254843, 20.898503)
             };
             map.Pins.Add(pin);
             map.MoveToRegion(MapSpan.FromCenterAndRadius(pin.Position, Distance.FromMeters(500)));

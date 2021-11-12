@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a7mYMgCi4Uue+dImIXRM0IkxpLgbr7XzZUM9JiftbP+h9xQBy5aYbeAQcl/4QKRAFd+ndMpr2CBz7q9ATN85kQ==",
+  "dgSpecHash": "AHEt+0ZhB1bPkTtTiInSC2xDzMKWRn1ooGrAZsZbittoFU3urAkBxGwGjLi+bI8y2viZGS2/x8xKlGTBKYNYCg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lap MSI\\Desktop\\projekt\\xamarin\\mapssss\\mapssss\\mapssss.Android\\mapssss.Android.csproj",
+  "projectFilePath": "C:\\Users\\lap MSI\\Desktop\\projekt\\xamarin\\mapy+pin+czarny\\mapssss\\mapssss.Android\\mapssss.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lap MSI\\.nuget\\packages\\plugin.currentactivity\\2.1.0.4\\plugin.currentactivity.2.1.0.4.nupkg.sha512",
     "C:\\Users\\lap MSI\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",

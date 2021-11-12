@@ -563,11 +563,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lap MSI\\Desktop\\projekt\\xamarin\\mapssss\\mapssss\\mapssss\\mapssss.csproj",
+      "projectUniqueName": "C:\\Users\\lap MSI\\Desktop\\projekt\\xamarin\\mapy+pin+czarny\\mapssss\\mapssss\\mapssss.csproj",
       "projectName": "mapssss",
-      "projectPath": "C:\\Users\\lap MSI\\Desktop\\projekt\\xamarin\\mapssss\\mapssss\\mapssss\\mapssss.csproj",
+      "projectPath": "C:\\Users\\lap MSI\\Desktop\\projekt\\xamarin\\mapy+pin+czarny\\mapssss\\mapssss\\mapssss.csproj",
       "packagesPath": "C:\\Users\\lap MSI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lap MSI\\Desktop\\projekt\\xamarin\\mapssss\\mapssss\\mapssss\\obj\\",
+      "outputPath": "C:\\Users\\lap MSI\\Desktop\\projekt\\xamarin\\mapy+pin+czarny\\mapssss\\mapssss\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lap MSI\\AppData\\Roaming\\NuGet\\NuGet.Config",

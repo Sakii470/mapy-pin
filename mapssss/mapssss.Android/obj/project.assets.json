@@ -4672,11 +4672,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lap MSI\\Desktop\\projekt\\xamarin\\mapssss\\mapssss\\mapssss.Android\\mapssss.Android.csproj",
+      "projectUniqueName": "C:\\Users\\lap MSI\\Desktop\\projekt\\xamarin\\mapy+pin+czarny\\mapssss\\mapssss.Android\\mapssss.Android.csproj",
       "projectName": "mapssss.Android",
-      "projectPath": "C:\\Users\\lap MSI\\Desktop\\projekt\\xamarin\\mapssss\\mapssss\\mapssss.Android\\mapssss.Android.csproj",
+      "projectPath": "C:\\Users\\lap MSI\\Desktop\\projekt\\xamarin\\mapy+pin+czarny\\mapssss\\mapssss.Android\\mapssss.Android.csproj",
       "packagesPath": "C:\\Users\\lap MSI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lap MSI\\Desktop\\projekt\\xamarin\\mapssss\\mapssss\\mapssss.Android\\obj\\",
+      "outputPath": "C:\\Users\\lap MSI\\Desktop\\projekt\\xamarin\\mapy+pin+czarny\\mapssss\\mapssss.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -4693,8 +4693,8 @@
       "frameworks": {
         "monoandroid12.0": {
           "projectReferences": {
-            "C:\\Users\\lap MSI\\Desktop\\projekt\\xamarin\\mapssss\\mapssss\\mapssss\\mapssss.csproj": {
-              "projectPath": "C:\\Users\\lap MSI\\Desktop\\projekt\\xamarin\\mapssss\\mapssss\\mapssss\\mapssss.csproj"
+            "C:\\Users\\lap MSI\\Desktop\\projekt\\xamarin\\mapy+pin+czarny\\mapssss\\mapssss\\mapssss.csproj": {
+              "projectPath": "C:\\Users\\lap MSI\\Desktop\\projekt\\xamarin\\mapy+pin+czarny\\mapssss\\mapssss\\mapssss.csproj"
             }
           }
         }
