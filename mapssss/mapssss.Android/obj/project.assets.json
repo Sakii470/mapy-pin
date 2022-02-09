@@ -4667,20 +4667,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\lap MSI\\.nuget\\packages\\": {}
+    "C:\\Users\\MSI PC\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lap MSI\\Desktop\\projekt\\xamarin\\mapy+pin+czarny\\mapssss\\mapssss.Android\\mapssss.Android.csproj",
+      "projectUniqueName": "D:\\pliki 05.02.2022r\\projekt\\xamarin\\praca-mapy-pin\\mapssss\\mapssss.Android\\mapssss.Android.csproj",
       "projectName": "mapssss.Android",
-      "projectPath": "C:\\Users\\lap MSI\\Desktop\\projekt\\xamarin\\mapy+pin+czarny\\mapssss\\mapssss.Android\\mapssss.Android.csproj",
-      "packagesPath": "C:\\Users\\lap MSI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lap MSI\\Desktop\\projekt\\xamarin\\mapy+pin+czarny\\mapssss\\mapssss.Android\\obj\\",
+      "projectPath": "D:\\pliki 05.02.2022r\\projekt\\xamarin\\praca-mapy-pin\\mapssss\\mapssss.Android\\mapssss.Android.csproj",
+      "packagesPath": "C:\\Users\\MSI PC\\.nuget\\packages\\",
+      "outputPath": "D:\\pliki 05.02.2022r\\projekt\\xamarin\\praca-mapy-pin\\mapssss\\mapssss.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "C:\\Users\\lap MSI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\MSI PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4693,8 +4693,8 @@
       "frameworks": {
         "monoandroid12.0": {
           "projectReferences": {
-            "C:\\Users\\lap MSI\\Desktop\\projekt\\xamarin\\mapy+pin+czarny\\mapssss\\mapssss\\mapssss.csproj": {
-              "projectPath": "C:\\Users\\lap MSI\\Desktop\\projekt\\xamarin\\mapy+pin+czarny\\mapssss\\mapssss\\mapssss.csproj"
+            "D:\\pliki 05.02.2022r\\projekt\\xamarin\\praca-mapy-pin\\mapssss\\mapssss\\mapssss.csproj": {
+              "projectPath": "D:\\pliki 05.02.2022r\\projekt\\xamarin\\praca-mapy-pin\\mapssss\\mapssss\\mapssss.csproj"
             }
           }
         }

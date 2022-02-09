@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lap MSI\\Desktop\\projekt\\xamarin\\mapy+pin+czarny\\mapssss\\mapssss\\mapssss.csproj": {}
+    "D:\\pliki 05.02.2022r\\projekt\\xamarin\\praca-mapy-pin\\mapssss\\mapssss\\mapssss.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lap MSI\\Desktop\\projekt\\xamarin\\mapy+pin+czarny\\mapssss\\mapssss\\mapssss.csproj": {
+    "D:\\pliki 05.02.2022r\\projekt\\xamarin\\praca-mapy-pin\\mapssss\\mapssss\\mapssss.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lap MSI\\Desktop\\projekt\\xamarin\\mapy+pin+czarny\\mapssss\\mapssss\\mapssss.csproj",
+        "projectUniqueName": "D:\\pliki 05.02.2022r\\projekt\\xamarin\\praca-mapy-pin\\mapssss\\mapssss\\mapssss.csproj",
         "projectName": "mapssss",
-        "projectPath": "C:\\Users\\lap MSI\\Desktop\\projekt\\xamarin\\mapy+pin+czarny\\mapssss\\mapssss\\mapssss.csproj",
-        "packagesPath": "C:\\Users\\lap MSI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lap MSI\\Desktop\\projekt\\xamarin\\mapy+pin+czarny\\mapssss\\mapssss\\obj\\",
+        "projectPath": "D:\\pliki 05.02.2022r\\projekt\\xamarin\\praca-mapy-pin\\mapssss\\mapssss\\mapssss.csproj",
+        "packagesPath": "C:\\Users\\MSI PC\\.nuget\\packages\\",
+        "outputPath": "D:\\pliki 05.02.2022r\\projekt\\xamarin\\praca-mapy-pin\\mapssss\\mapssss\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lap MSI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MSI PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -69,7 +69,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
